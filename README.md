@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/View%20Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" height="28" />
 </a>
 
+
 ---
 ### 🛠 Languages & Tools
 
@@ -82,7 +83,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachinn12&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
   <img src="https://streak-stats.demolab.com?user=sachinn12&theme=dracula" height="150" />
-1.   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinn12&layout=compact&langs_count=5&theme=dracula" height="150" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinn12&layout=compact&langs_count=5&theme=dracula" height="150" /> -->
   <img src="https://github-profile-trophy.vercel.app?username=sachinn12&no-frame=true&theme=dracula" height="150" />
 </div>
 
@@ -92,7 +93,9 @@
 
 ### 📬 Get in touch 
  <img src="https://visitor-badge.laobi.icu/badge?page_id=sachinn12.sachinn12&"  />
+ &nbsp;
 <div align="left">
+
   <a href="https://www.linkedin.com/in/sachhinn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
