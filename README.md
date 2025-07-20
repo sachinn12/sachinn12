@@ -8,7 +8,7 @@
       <a href="https://github.com/Garrafao/phitag" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="PhiTag Icon" />
-          <strong style="margin-top: 6px;">PhiTag</strong>
+          <strong style="margin-top: 4px;">PhiTag</strong>
           <!-- <sub style="color: #666;">A lightweight annotation tool for NLP datasets.</sub> -->
         </div>
       </a>
@@ -17,7 +17,7 @@
       <a href="https://github.com/Garrafao/LSCDBenchmark" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="LSCD Icon" />
-          <strong style="margin-top: 6px;">LSCD BenchMark</strong>
+          <strong style="margin-top: 4px;">LSCD BenchMark</strong>
           <!-- <sub style="color: #666;">Evaluating Lexical Semantic Change across time and languages.</sub> -->
         </div>
       </a>
