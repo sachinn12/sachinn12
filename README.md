@@ -27,7 +27,7 @@
 
 **Note:** A significant portion of my work lives in private repositories, across multiple languages and domains like AI, backend systems, and NLP tools. The public projects here reflect only part of that journey.
 
-### Try My Model: **XL-DURel** on Hugging Face
+### Try My Model **XL-DURel** on Hugging Face
 
 <a href="https://huggingface.co/sachinn1/xl-durel" target="_blank">
   <img src="https://img.shields.io/badge/Try%20on-HuggingFace-yellow?logo=huggingface&style=for-the-badge" alt="Try on Hugging Face" />
@@ -44,7 +44,7 @@
 
 #### 2. **Towards Automating Text Annotation**  
 
-<a href="https://arxiv.org/pdf/another-paper-id" target="_blank">
+<a href="https://arxiv.org/pdf/2407.04130v1" target="_blank">
   <img src="https://img.shields.io/badge/View%20Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" height="28" />
 </a>
 
@@ -65,6 +65,7 @@
 ### 🛠 Languages & Tools
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
@@ -72,15 +73,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-   <img src="https://skillicons.dev/icons?i=aws" height="30" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"  />
+
 </div>
 
 ---
