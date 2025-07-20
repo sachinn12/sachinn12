@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td align="center" valign="top" width="200">
+    <td align="center" valign="top" width="300">
       <a href="https://github.com/Garrafao/phitag" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="PhiTag Icon" />
@@ -13,7 +13,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top" width="200">
+    <td align="center" valign="top" width="300">
       <a href="https://github.com/Garrafao/LSCDBenchmark" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="LSCD Icon" />
