@@ -1,25 +1,53 @@
 <h2 align="left">Hi! I’m Sachin Yadav — a Full Stack & AI Developer</h2>
 
-### 📂 Some of my most contributed open-source projects
+### Some of my most contributed open-source projects
 
 <table>
   <tr>
-    <td valign="top" width="300">
-      <a href="https://github.com/Garrafao/phitag" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="PhiTag Icon" />
-        <strong>PhiTag</strong><br/>
-        <!-- <sub>A lightweight annotation tool for NLP datasets.</sub> -->
+    <td align="center" valign="top" width="300">
+      <a href="https://github.com/Garrafao/phitag" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="PhiTag Icon" />
+          <strong style="margin-top: 6px;">PhiTag</strong>
+          <!-- <sub style="color: #666;">A lightweight annotation tool for NLP datasets.</sub> -->
+        </div>
       </a>
     </td>
-    <td valign="top" width="300">
-      <a href="https://github.com/Garrafao/LSCDBenchmark" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="LSCD Icon" />
-        <strong>LSCD BenchMark</strong><br/>
-        <!-- <sub>Evaluating Lexical Semantic Change across time and languages.</sub> -->
+    <td align="center" valign="top" width="300">
+      <a href="https://github.com/Garrafao/LSCDBenchmark" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="LSCD Icon" />
+          <strong style="margin-top: 6px;">LSCD BenchMark</strong>
+          <!-- <sub style="color: #666;">Evaluating Lexical Semantic Change across time and languages.</sub> -->
+        </div>
       </a>
     </td>
   </tr>
 </table>
+
+**Note:** A significant portion of my work lives in private repositories, across multiple languages and domains like AI, backend systems, and NLP tools. The public projects here reflect only part of that journey.
+
+### Try My Model: **XL-DURel** on Hugging Face
+
+<a href="https://huggingface.co/sachinn1/xl-durel" target="_blank">
+  <img src="https://img.shields.io/badge/Try%20on-HuggingFace-yellow?logo=huggingface&style=for-the-badge" alt="Try on Hugging Face" />
+</a>
+
+
+
+### 📝 Read My Research Papers
+
+#### 1. **XL-DURel**   
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" height="28" />
+</a>
+
+#### 2. **Towards Automating Text Annotation**  
+
+<a href="https://arxiv.org/pdf/another-paper-id" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" height="28" />
+</a>
+
 
 ---
 
@@ -49,26 +77,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+   <img src="https://skillicons.dev/icons?i=aws" height="30" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
 </div>
 
 ---
 
-### 📬 Get in touch
-
+### 📬 Get in touch 
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=sachinn12.sachinn12&"  />
+ &nbsp;
 <div align="left">
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=sachinn12.sachinn12&"  />
-
 
   <a href="https://www.linkedin.com/in/sachhinn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
   <a href="https://discord.com/users/1155905027609727028" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  height="30" />
   </a>
   <a href="mailto:sachindv42@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
 </div>
