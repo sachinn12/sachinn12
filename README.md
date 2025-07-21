@@ -6,24 +6,19 @@
   <tr>
     <td align="center" valign="top" width="300">
       <a href="https://github.com/Garrafao/phitag" target="_blank" style="text-decoration: none; color: inherit;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="PhiTag Icon" />
-          <strong style="margin-top: 4px;">PhiTag</strong>
-          <!-- <sub style="color: #666;">A lightweight annotation tool for NLP datasets.</sub> -->
-        </div>
+        <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="PhiTag Icon" style="display: block; margin: 0 auto;" />
+        <div style="margin-top: 6px; font-weight: bold;">PhiTag</div>
       </a>
     </td>
     <td align="center" valign="top" width="300">
       <a href="https://github.com/Garrafao/LSCDBenchmark" target="_blank" style="text-decoration: none; color: inherit;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="LSCD Icon" />
-          <strong style="margin-top: 4px;">LSCD BenchMark</strong>
-          <!-- <sub style="color: #666;">Evaluating Lexical Semantic Change across time and languages.</sub> -->
-        </div>
+        <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="LSCD Icon" style="display: block; margin: 0 auto;" />
+        <div style="margin-top: 6px; font-weight: bold;">LSCD BenchMark</div>
       </a>
     </td>
   </tr>
 </table>
+
 
 **Note:** A significant portion of my work lives in private repositories, across multiple languages and domains like AI, backend systems, and NLP tools. The public projects here reflect only part of that journey.
 
