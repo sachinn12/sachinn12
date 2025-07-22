@@ -33,9 +33,8 @@
 ### 📝 Read My Research Papers
 
 #### 1. **XL-DURel**   
-*This paper is under review and will be uploaded soon.*
 
-<a href="#" target="_blank" >
+<a href="https://arxiv.org/pdf/2507.14578" target="_blank" >
   <img src="https://img.shields.io/badge/View%20Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" height="28" />
 </a>
 
