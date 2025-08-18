@@ -19,9 +19,6 @@
   </tr>
 </table>
 
-
-**Note:** A significant portion of my work lives in private repositories, across multiple languages and domains like AI, backend systems, and NLP tools. The public projects here reflect only part of that journey.
-
 ### Try My Model **XL-DURel** on Hugging Face
 
 <a href="https://huggingface.co/sachinn1/xl-durel" target="_blank">
