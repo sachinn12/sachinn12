@@ -16,6 +16,12 @@
         <div style="margin-top: 6px; font-weight: bold;">LSCD BenchMark</div>
       </a>
     </td>
+     <td align="center" valign="top" width="300">
+      <a href="https://github.com/sachinn12/XL-DURel" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://img.icons8.com/fluency/48/folder-invoices.png" alt="LSCD Icon" style="display: block; margin: 0 auto;" />
+        <div style="margin-top: 6px; font-weight: bold;">XL-DURel</div>
+      </a>
+    </td>
   </tr>
 </table>
 
