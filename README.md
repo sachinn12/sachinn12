@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I’m Sachin Yadav — a Software Developer & NLP Researcher</h2>
+<h2 align="left">Hi! I’m Sachin Yadav — a Software & AI/ML Engineerr</h2>
 
 ### Some of my most contributed open-source projects
 
